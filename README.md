@@ -8,6 +8,10 @@ Este proyecto es un pequeño ejemplo en JavaScript que construye un saludo compl
 - `getGreeting(timeOfDay)`: valida el momento del día y devuelve un saludo adecuado.
 - `createGreeting(firstName, lastName, timeOfDay)`: combina ambos resultados y maneja errores para devolver mensajes claros.
 
+Este proyecto se basa en el ejemplo de Roadmap.sh:
+
+https://roadmap.sh/projects/js-greeting-builder
+
 ## Uso / How to use
 
 1. Abre el archivo `main.js`.
